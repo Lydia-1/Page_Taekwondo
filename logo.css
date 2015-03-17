@@ -1,0 +1,88 @@
+body {
+	background-image: url("http://img1.gtsstatic.com/wallpapers/17a70661c75db12d1f71c2236b77c9d0_large.jpeg");
+	background-color : red;
+}
+
+html,body { 
+	margin-left:10px;
+	padding:0;
+	height : 100%;
+}
+
+#table1 {
+	border-width:4px; 
+ 	border-style:solid; 
+ 	border-color:black;
+ 	width:0px;
+	font:italic 13px Arial;
+	margin-left:300px; 
+}
+
+#top { height:0;
+				width:0;
+}
+
+
+td { 
+ 		border-width:4px;
+ 		border-style:solid; 
+ 		border-color:red;
+ 		width:60px;
+		
+ }
+
+#table1  p  { border-width:4px; 
+ 							border-style:solid; 
+ 							border-color:red;
+ 							width:300px; 
+							margin:0;
+	    				font :bold red 60px Arial;
+							text-indent:30px;
+							text-align:left;
+						
+}
+#tree {	margin-top:60px;
+						
+ }
+
+#table2 { 
+	border-width:4px; 
+ 	border-style:solid; 
+ 	border-color:black;
+ 	width:0px; 
+	font:italic 13px Arial;
+	margin-left:300px; 
+}
+#four {border-radius:100%;
+}
+						
+
+#one { text-align :center;
+		color:red;
+
+}
+#green { 
+		color: red;
+
+}
+#down { 
+				text-align: right;
+				text-decoration: underline;
+				font-size: 20px;
+				font-family: times;
+				color: red;
+				margin-bottom: 30px;
+				margin-right: 60px;
+
+				
+}
+#bouton {
+	padding:6px 8px 20px 4px;
+	margin-left:600px;
+	font:Bold 13px Arial;
+	background:#d34836;
+	color:#fff;
+	width:90px;
+	border-radius:100%;
+	border:none;
+}

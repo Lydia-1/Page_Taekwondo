@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<meta charset="utf-8">
+			<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+			<title>Teakwondo Lydia</title>
+			<link  rel="stylesheet" type="text/css" href="logo.css">
+		</head>
+		 <body>
+        	<header>
+							<div id="top">
+								<img src="http://taekwondovalence26.e-monsite.com/medias/images/logo-fftda.jpg" style="width:160px;
+									height:140px">
+							</div>
+							<div id="one">
+           							<h2> Taekwondo fly kicks <h2>
+      						</div>
+							<div id="bouton1">
+									<p style="text-indent:25px"> Home </p>
+							</div>
+			</header>			
+						<div id="table1">
+							<table BORDER>
+								<tr>
+									<td style="text-indent:70px ; color:green">TAEKWONDO 360,540 FLY KICKS</td>
+		     						<td style="text-indent:100px ; color:green">EXPLICATION</td>
+								</tr>
+									<td>
+										<img src="http://www.menandbeyond.net/wp-content/uploads/2014/10/taekwondo.jpg">
+									</td>
+									<td id="tree">
+										<p style="color:blue ;text-indent:40px">It's a variation of a Jump Back Kick</p>
+										<p style="color:blue ;text-indent:60px">a high technique of your body.<p>
+										<p style="color:blue;text-indent:70px">Croire être un champion.</p>
+										<p style="color:blue">Tu peux l’être ou tu peux avoir des aptitudes,</p>
+										<p style="color:blue ;text-indent:50px">Mais si tu ne fais pas un travail </p>
+										<p style="color:blue">Tu resteras un être qui sombrera dans l’oubli</p>
+										<p style="color:blue;text-indent:40px">L’individu n'est pas celui qu'il croit être,</p>
+										<p style="color:blue ;text-indent:45px"> Mais plutôt celui qu'il pourra devenir,</p>
+										<p style="color:blue ;text-indent:40px">Selon les chemins empruntés dans la vie,</p>
+										<p style="color:blue ;text-indent:70px">Entre le bien et le mal, </p>
+										<p style="color:blue ;text-indent:60px">Il n'y a qu'un seul faut pas !!!</p>
+									</td>                   								
+							</table>
+						</div>
+						<div id="table2">
+							<table BORDER>
+							<tr>
+								<td style="text-indent:150px ; color:green">VIDÉO</td>
+								<td style="text-indent:70px ; color:green">TAEKWONDO BASIC KICK</td> 
+							</tr>               
+								<td>
+									<iframe width="360" height="450" src="https://www.youtube.com/embed/rwV42s8Q-xI" frameborder="0" allowfullscreen></iframe>
+								</td>
+								<td>
+									<img id="four" src="http://taekwondo-network.com/images/womansidekick.jpg" width="300" height="450" border-raduis="20">
+								</td>
+							</table>
+						</div>
+			<footer>
+				<div id="green">
+					<ul>
+
+						<li><a href="https://www.facebook.com/pages/Olympic-Taekwondo/48301348452">Facebook</a></li>
+						<li><a href="https://twitter.com/gbtaekwondo">Twitter</a></li>
+						<li><a href="https://www.youtube.com/watch?v=lXZGX563Orc">Fly kick training</a></li>
+						<li><a href="https://www.youtube.com/watch?v=aSsEniLha5M">Match</a></li>
+						<li><a href="http://www.phenix-miribel-taekwondo.com/pages/citation.html">Citations</a></li>
+					</ul>
+				</div>
+				<div id="down"> 
+				copyright@Lydiahassan
+				</div>
+			</footer>			
+			</body>
+ 
+	</html>
